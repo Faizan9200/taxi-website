@@ -1,0 +1,9 @@
+.form_control {
+    padding: 8px;
+    border-radius: 7px;
+    border: 1px solid #24cd85;
+}
+.form_control:focus {
+    border: 2px solid green;
+    outline: none;
+}
